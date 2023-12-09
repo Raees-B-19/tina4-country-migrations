@@ -1,4 +1,4 @@
 /.idea/
-/public_html/vendor/
-/public_html/.env
-/public_html/log/debug.log
+vendor/
+.env
+log/debug.log

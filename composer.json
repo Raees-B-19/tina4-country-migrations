@@ -30,7 +30,7 @@
             ]
         },
         "classmap": [
-            "public_html/src/"
+            "src/"
         ],
         "files": [
             "loadModule.php"
