@@ -1,5 +1,5 @@
 {
-    "name": "tina4components/CountryTableMigrations",
+    "name": "tina4components/country-table-migrations",
     "description": "Adds country tables to your database with iso2, iso3",
     "license": "MIT",
     "require": {
