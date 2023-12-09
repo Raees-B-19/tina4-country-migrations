@@ -1,4 +1,7 @@
 {
+    "name": "tina4components/CountryTableMigrations",
+    "description": "Adds country tables to your database with iso2, iso3",
+    "license": "MIT",
     "require": {
         "tina4stack/tina4php": "^2.0"
     },
@@ -25,7 +28,13 @@
                 "src/orm/",
                 "src/routes"
             ]
-        }
+        },
+        "classmap": [
+            "public_html/src/"
+        ],
+        "files": [
+            "loadModule.php"
+        ]
     },
     "config": {
         "process-timeout": 0
